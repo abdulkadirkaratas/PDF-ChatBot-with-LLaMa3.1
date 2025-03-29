@@ -8,8 +8,8 @@ PDFChatBot, PDF dosyalarınızı yükleyip bu dosyalarla ilgili sorular sorabile
 ![RAG](https://github.com/user-attachments/assets/2a2f8418-ab4c-4da8-ad7d-4ff7c0516a97)
 
 ## Gereksinimler
-### Ollama: Yerel bir LLM ve embedding modeli çalıştırmak için Ollama sunucusuna ihtiyacınız var.
+Ollama: Yerel bir LLM ve embedding modeli çalıştırmak için Ollama sunucusuna ihtiyacınız var.
 
-### llama3.1: Sorularınızı yanıtlamak için kullanılan LLM modeli.
+llama3.1: Sorularınızı yanıtlamak için kullanılan LLM modeli.
 
-### nomic-embed-text: PDF metinlerini vektörlere dönüştürmek için kullanılan embedding modeli.
+nomic-embed-text: PDF metinlerini vektörlere dönüştürmek için kullanılan embedding modeli.
