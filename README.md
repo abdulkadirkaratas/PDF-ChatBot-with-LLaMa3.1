@@ -9,5 +9,7 @@ PDFChatBot, PDF dosyalarınızı yükleyip bu dosyalarla ilgili sorular sorabile
 
 # Gereksinimler
 Ollama: Yerel bir LLM ve embedding modeli çalıştırmak için Ollama sunucusuna ihtiyacınız var.
+
 llama3.1: Sorularınızı yanıtlamak için kullanılan LLM modeli.
+
 nomic-embed-text: PDF metinlerini vektörlere dönüştürmek için kullanılan embedding modeli.
