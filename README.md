@@ -1,4 +1,4 @@
-# PDFChatBot
+## PDFChatBot
 PDFChatBot, PDF dosyalarınızı yükleyip bu dosyalarla ilgili sorular sorabileceğiniz bir yapay zeka tabanlı sohbet botudur. LangChain ve Ollama kullanılarak geliştirilmiştir. PDF dosyalarınızdan metin çıkarır, bu metni vektör tabanına dönüştürür ve sorularınızı yanıtlamak için bir LLM (Large Language Model) kullanır.
 
 # Ekran Görüntüsü
